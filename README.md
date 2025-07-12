@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 😎 About Me
-Hi! I'm Sophia, a rising Junior at Boston University. 
+Hi! I'm Sophia, a rising Junior at Boston University. I'm majoring in Data Science and minoring in Business Administration and Management. 
 
 # 💻 Technical Skills 
 * Programming Languages: Python, Rust, R, SQL
