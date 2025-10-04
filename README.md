@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 Hi! I'm Sophia, a rising Junior at Boston University. I'm majoring in Data Science and minoring in Business Administration and Management. 
 
 ## 💻 Technical Skills 
-* Programming Languages: Python, Rust, R, SQL
+* Programming Languages: Python, Rust, R, SQL 
 * Machine Learning: pandas, numpy, scikit-learn, matplotlib, seaborn, ggplot2, XML
 * Web Technologies: HTML, CSS, JavaScript
 * Tools: AWS, MS Office, Jupyter Notebooks, Visual Studio Code, PyCharm, GitHub, Figma
 
 ## 👩‍💻 Projects 
-**Olfactory Mixtures Prediction**
+**Olfactory Mixtures Prediction** 
 Predicted odor perception changes and semantic ratings using concentration-aware regression and ensemble models on 151 odorants and 650+ mixtures with molecular and network-based features.
 
 **Post-COVID Tech Layoffs Analysis**
